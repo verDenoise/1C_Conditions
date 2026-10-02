@@ -24,8 +24,6 @@
 
 ## Авторы и источники
 
-Идея и первая редакция стандарта — **Андрей Курилович** (Team Lead, Odyssey Consulting Group, 2024). Дальнейшие редакции — [verDenoise](https://github.com/verDenoise).
-
 При подготовке использованы:
 
 - [Правила разработки 1С](https://gitlab.com/bsl-env/rules) и шаблоны текста — shmalevoz;
